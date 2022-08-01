@@ -1,3 +1,4 @@
+<img src="https://media-exp1.licdn.com/dms/image/C5112AQFm6aUIMtkQXw/article-inline_image-shrink_1000_1488/0/1586786516190?e=1665014400&v=beta&t=eSkWiRP94rIIvUQuIqogsiDbFcz6rbe0JyUF0zta-b8"/>
 <h1 align="center">Hi 👋, I'm Bruno David</h1>
 <h3 align="center">A passionate FullStack developer from Argentina</h3>
 
