@@ -1,6 +1,6 @@
 <img src="https://media-exp1.licdn.com/dms/image/C5112AQFm6aUIMtkQXw/article-inline_image-shrink_1000_1488/0/1586786516190?e=1665014400&v=beta&t=eSkWiRP94rIIvUQuIqogsiDbFcz6rbe0JyUF0zta-b8"/>
 <h1 align="center">Hi 👋, I'm Bruno David</h1>
-<h3 align="center">I am a passionate full stack web developer focused on both sides of development. I am characterized by having a very good versatility in the back and front as well as a great ambition to solve problems. I have excellent teamwork as well as a great ambition to grow in the professional TI field.</h3>
+<h3 align="center">I am a passionate full stack web developer focused on both sides of development. I am characterized by having a very good versatility in the back and front as well as a great ambition to solve problems. I have excellent teamwork as well as a great ambition to grow in the professional IT field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidlbruno&label=Profile%20views&color=0e75b6&style=flat" alt="davidlbruno" /> </p>
 
