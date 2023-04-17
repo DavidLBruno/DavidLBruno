@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C5112AQFm6aUIMtkQXw/article-inline_image-shrink_1000_1488/0/1586786516190?e=1665014400&v=beta&t=eSkWiRP94rIIvUQuIqogsiDbFcz6rbe0JyUF0zta-b8"/>
+<img src="https://www.freecodecamp.org/news/content/images/2022/08/pexels-antonio-batinic--4164418--1-.jpg"/>
 <h1 align="center">Hi 👋, I'm Bruno David</h1>
 <h3 align="center">I am a passionate full stack web developer focused on both sides of development. I am characterized by having a very good versatility in the back and front as well as a great ambition to solve problems. I have excellent teamwork as well as a great ambition to grow in the professional IT field.</h3>
 
