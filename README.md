@@ -1,4 +1,4 @@
-<img src="https://www.freecodecamp.org/news/content/images/2022/08/pexels-antonio-batinic--4164418--1-.jpg"/>
+<img src="https://midu.dev/images/wallpapers/una-taza-de-javascript.png"/>
 <h1 align="center">Hi 👋, I'm Bruno David</h1>
 <h3 align="center">I am a passionate full stack web developer focused on both sides of development. I am characterized by having a very good versatility in the back and front as well as a great ambition to solve problems. I have excellent teamwork as well as a great ambition to grow in the professional IT field.</h3>
 
