@@ -1,6 +1,3 @@
-/* 
-<img src="https://drive.google.com/uc?export=download&id=14st_2VeHnxgluwC8henOiDuAc78IQfG_"/>
-*/
 <h1 align="center">Hi 👋, I'm Bruno David</h1>
 <h3 align="center">I am a passionate full stack web developer focused on both sides of development. I am characterized by having a very good versatility in the back and front as well as a great ambition to solve problems. I have excellent teamwork as well as a great ambition to grow in the professional IT field.</h3>
 
