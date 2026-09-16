@@ -4,14 +4,14 @@
 <h3 align="center">Fullstack Developer · Angular + NestJS · Rosario, Argentina 🇦🇷</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/brunodavid1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/bruno-developer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:bruno.david9914@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=davidlbruno&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views"/>
 </p>
 
 ## 🧑‍💻 About me
 
-- 💼 **Fullstack Developer at [TheLab](https://github.com/TheLabTech)** (since 2023) — building with **Angular** and **NestJS** on **Oracle** databases.
+- 💼 **Fullstack Developer at [TheLab](https://thelabtech.com.ar)** (since 2023) — building with **Angular** and **NestJS** on **Oracle** databases.
 - 🕘 Previously: **Angular Frontend Developer** at LiberaSoft (client: Depsys Informática), 2022–2023.
 - 🎓 Studying **Information Systems Engineering** (UAI) and an **Associate Degree in Artificial Intelligence**.
 - 🚀 Graduated from Henry's **Full Stack Web Developer** bootcamp (700 hours).
